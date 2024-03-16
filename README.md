@@ -194,4 +194,5 @@ http://43.201.216.186:3000/
 # ✏PPT 
 https://www.canva.com/design/DAF-KUS-Wyo/OOqtIS-pJINXR2BklAe5dA/view?utm_content=DAF-KUS-Wyo&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-
+admin502 아이디
+_aA123456 패스워드
